@@ -86,11 +86,11 @@ h2 {
 }
 
 .section:nth-child(odd) {
-    background: #F5E6CA;
+    background: #fff;
 }
 
 .section:nth-child(even) {
-    background: #fff;
+    background: #F5E6CA;
 }
 
 .heading:hover .headingline {
